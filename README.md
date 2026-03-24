@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente desarrollado como parte del Trabajo de Fin de Máster (TFM) titulado **"Formalización y verificación de lenguajes formales mediante teoría de autómatas"**.
 
-El objetivo principal de este proyecto es ofrecer una implementación rigurosa y didáctica de los conceptos fundamentales de la teoría de lenguajes formales utilizando el lenguaje de programación funcional **Haskell**. Una vez establecida la base teórica, se ofrece una aplicación directa de los conceptos en forma de un analizador léxico y sintáctico para la lógica proposicional utilizando el lenguaje de programación funcional **Haskell**.
+El objetivo principal de este proyecto es ofrecer una implementación rigurosa y didáctica de los conceptos fundamentales de la teoría de lenguajes formales utilizando el lenguaje de programación funcional **Haskell**. Una vez establecida la base teórica, se ofrece una aplicación directa de los conceptos en forma de un analizador léxico y sintáctico para la lógica proposicional.
 
 ## 📂 Estructura del Proyecto
 
